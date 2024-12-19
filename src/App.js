@@ -21,7 +21,7 @@ function App() {
 
   <div className="app-wrap" style={{backgroundColor:color}}>
     <button className="green" onClick={handlechangecolor}>Green</button>
-    <button className="yellow" style={{backgroundColor:"yellow"}} onClick={handlechangecoloryellow}>yellow</button>
+    <button className="yellow"  onClick={handlechangecoloryellow}>yellow</button>
   </div>
   </>
   );
