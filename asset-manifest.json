@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Color-Change-App/static/css/main.6fbfe0ec.css",
-    "main.js": "/Color-Change-App/static/js/main.e4a0ba95.js",
+    "main.css": "/Color-Change-App/static/css/main.24cf3855.css",
+    "main.js": "/Color-Change-App/static/js/main.156f7658.js",
     "index.html": "/Color-Change-App/index.html",
-    "main.6fbfe0ec.css.map": "/Color-Change-App/static/css/main.6fbfe0ec.css.map",
-    "main.e4a0ba95.js.map": "/Color-Change-App/static/js/main.e4a0ba95.js.map"
+    "main.24cf3855.css.map": "/Color-Change-App/static/css/main.24cf3855.css.map",
+    "main.156f7658.js.map": "/Color-Change-App/static/js/main.156f7658.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fbfe0ec.css",
-    "static/js/main.e4a0ba95.js"
+    "static/css/main.24cf3855.css",
+    "static/js/main.156f7658.js"
   ]
 }
